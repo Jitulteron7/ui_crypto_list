@@ -1,0 +1,10 @@
+.container {
+    margin: 0 auto;
+}
+
+.container .title {
+    font-weight: bold;
+}
+.container .graph{
+    margin: 5% auto;
+}
